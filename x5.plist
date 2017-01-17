@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ydgy.aipeipei.net/ydgyapp/ydgy.ipa</string>
+					<string>http://x5.justep.com/apps/x5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ydgy.aipeipei.net/ydgyapp/ddts.png</string>
+					<string>http://x5.justep.com/apps/x5.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ydgy.aipeipei.net/ydgyapp/ddts.png</string>
+					<string>http://x5.justep.com/apps/x5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.api.testapp20170109</string>
+				<string>com.justep.x5.demo</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>5.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>点滴天使 download</string>
+				<string>X5 App download</string>
 			</dict>
 		</dict>
 	</array>
